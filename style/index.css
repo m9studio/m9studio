@@ -106,6 +106,9 @@ user-select: none;
 .youtube{
     background: url(../assets/youtube.svg) no-repeat;
 }
+.github{
+    background: url(../assets/github.svg) no-repeat;
+}
 
 
 .content_button{
@@ -227,6 +230,11 @@ user-select: none;
     left:200px;
 }
 
+.content_info_github{
+    position:absolute;
+    bottom:20px;
+    left:375px;
+}
 .content_info_youtube{
     position:absolute;
     bottom:20px;
@@ -311,6 +319,11 @@ user-select: none;
     left:100px;
 }
 
+.content_info_github{
+    position:absolute;
+    bottom:20px;
+    left:175px;
+}
 .content_info_youtube{
     position:absolute;
     bottom:20px;
